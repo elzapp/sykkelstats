@@ -21,7 +21,6 @@ Kommunal- og moderniseringsdepartementet har utarbeidet en lisensavtale offentli
 ###På følgende vilkår:
 
 * at du navngir lisensgiver slik lisensgiver ber om, men ikke på en måte som indikerer at disse har godkjent eller anbefaler deg eller din bruk av datasettet
-
 * at du ikke bruker dataene på en måte som fremstår som villedende, og heller ikke fordreier eller uriktig fremstiller dataene
 
 ###Med den forståelse:
