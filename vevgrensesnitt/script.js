@@ -1,7 +1,7 @@
 // Code goes here
 
 $(document).ready(function() {
-  var prepend = "https://raw.githubusercontent.com/olavxxx/sykkelstats/master/svv-tellepunkt/";
+  var prepend = "/sykkelstats/master/svv-tellepunkt/";
   var myStringArray = ["kanalveien", "fjosangerveien", "floenstien", "puddefjordsbroen", "sandviken", "solheimsviken","haavardstun","skjoldskiftet"];
   var append = ".csv";
 
