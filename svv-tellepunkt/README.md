@@ -20,15 +20,14 @@ Kommunal- og moderniseringsdepartementet har utarbeidet en lisensavtale offentli
 
 ###På følgende vilkår:
 
-at du navngir lisensgiver slik lisensgiver ber om, men ikke på en måte som indikerer at disse har godkjent eller anbefaler deg eller din bruk av datasettet
+* at du navngir lisensgiver slik lisensgiver ber om, men ikke på en måte som indikerer at disse har godkjent eller anbefaler deg eller din bruk av datasettet
 
-at du ikke bruker dataene på en måte som fremstår som villedende, og heller ikke fordreier eller uriktig fremstiller dataene
+* at du ikke bruker dataene på en måte som fremstår som villedende, og heller ikke fordreier eller uriktig fremstiller dataene
 
 ###Med den forståelse:
 
-at data som inneholder personopplysninger og er taushetsbelagt ikke er omfattet av denne lisensen og ikke kan viderebrukes
-
-at lisensgiver fraskriver seg ethvert ansvar for informasjonens kvalitet og hva informasjonen brukes til
+* at data som inneholder personopplysninger og er taushetsbelagt ikke er omfattet av denne lisensen og ikke kan viderebrukes
+* at lisensgiver fraskriver seg ethvert ansvar for informasjonens kvalitet og hva informasjonen brukes til
 
 Norsk lisens for offentlige data (NLOD) er tilgjengelig både på norsk og på engelsk. Følg disse lenkene for å lese den juridiske lisensteksten:
 
