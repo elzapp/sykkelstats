@@ -1,4 +1,5 @@
-[{
+{ "type": "FeatureCollection",
+    "features": [{
   "type": "Feature",
   "geometry": {
     "type": "Point",
@@ -7,4 +8,26 @@
   "properties": {
     "name": "Tellepunkt Sandviken"
   }
-}]
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.33421602, 60.37997968]
+  },
+  "properties": {
+    "name": "Tellepunkt Solheimsviken"
+  }
+},
+{
+  "type": "Feature",
+  "geometry": {
+    "type": "Point",
+    "coordinates": [5.35191625,60.38249579]
+  },
+  "properties": {
+    "name": "Tellepunkt Fløenstien"
+  }
+}
+]
+}
