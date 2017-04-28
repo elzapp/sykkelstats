@@ -1,0 +1,83 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    5.32328645,
+                    60.40524299
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tellepunkt Sandviken"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.33421602,
+                    60.37997968
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tellepunkt Solheimsviken"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.35191625,
+                    60.38249579
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tellepunkt Fl\u00f8enstien"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.34266618,
+                    60.36516133
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tellepunkt Fj\u00f8sangerveien"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.3200072,
+                    60.41523174
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tellepunkt \u00c5saneveien"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    5.3194679,
+                    60.38566147
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "name": "Tellepunkt Puddefjordsbroen"
+            },
+            "type": "Feature"
+        }
+    ],
+    "type": "FeatureCollection"
+}
