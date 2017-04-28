@@ -9,7 +9,7 @@
                 "type": "Point"
             },
             "properties": {
-				"marker-symbol":"bicycle",
+                "marker-symbol":"bicycle",
                 "name": "Tellepunkt Sandviken"
             },
             "type": "Feature"
@@ -23,7 +23,7 @@
                 "type": "Point"
             },
             "properties": {
-				"marker-symbol":"bicycle",
+                "marker-symbol":"bicycle",
                 "name": "Tellepunkt Solheimsviken"
             },
             "type": "Feature"
@@ -37,7 +37,7 @@
                 "type": "Point"
             },
             "properties": {
-				"marker-symbol":"bicycle",
+                "marker-symbol":"bicycle",
                 "name": "Tellepunkt Fl\u00f8enstien"
             },
             "type": "Feature"
@@ -52,7 +52,7 @@
             },
             "properties": {
                 "marker-symbol":"bicycle",
-				"name": "Tellepunkt Fj\u00f8sangerveien"
+                "name": "Tellepunkt Fj\u00f8sangerveien"
             },
             "type": "Feature"
         },
@@ -66,7 +66,7 @@
             },
             "properties": {
                 "marker-symbol":"bicycle",
-				"name": "Tellepunkt \u00c5saneveien"
+                "name": "Tellepunkt \u00c5saneveien"
             },
             "type": "Feature"
         },
@@ -80,7 +80,7 @@
             },
             "properties": {
                 "marker-symbol":"bicycle",
-				"name": "Tellepunkt Puddefjordsbroen"
+                "name": "Tellepunkt Puddefjordsbroen"
             },
             "type": "Feature"
         }
